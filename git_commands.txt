@@ -1,0 +1,33 @@
+
+Open app.js   
+
+to open a file 
+
+Git status 
+
+To know the status of file  
+
+Git add . 
+
+To add all the files in github 
+
+Gti commit –m "xsnxskxmksmx" 
+
+To commit in git hub 
+
+Git log  
+
+To see the logs and details 
+
+Git diff app.js 
+
+To see the differneces  in file change 
+
+Git checkout app.js 
+
+ To get back the old file  
+
+ 
+
+ 
+
